@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 Clone this repo:
 
-git clone https://github.com/yourusername/air-quality-forecasting.git
+git clone https://github.com/nmaketh/air-quality-forecasting.git
 cd air-quality-forecasting
 
 
